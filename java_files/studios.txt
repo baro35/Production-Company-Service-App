@@ -1,0 +1,10 @@
+Universal Pictures;Los Angeles, ABD;Filmmaking;30:04:1912;Pat Powers;-
+Warner Bros;Califronia, ABD;Filmmaking;25:04:1923;Albert Warner;2 3 4
+Columbia Pictures;Califronia, ABD;Filmmaking;10:01:1924;Harry Cohn;0 1
+Walt Disney Pictures;Califronia, ABD;Filmmaking;17:01:1923;Walt Disney;8
+Marvel Studios;Califronia, ABD;Filmmaking;07:12:1993;Marvel Entertainment;5
+Paramount Pictures Studios;Califronia, ABD;Filmmaking;08:05:1912;Adolph Zukor;-
+20th Century Fox;Califronia, ABD;Filmmaking;31:05:1935;Darryl F. Zanuck;-
+RatPac-Dune Entertainment;Califronia, ABD;Filmmaking;22:05:1935;Brett Ratner;6 7
+Legendary Entertainment;Califronia, ABD;Filmmaking;18:05:2000;Thomas Tull;-
+Relativity Media;Califronia, ABD;Filmmaking;25:05:2004;Ryan Kavanaugh;-

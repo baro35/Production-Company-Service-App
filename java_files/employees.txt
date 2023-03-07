@@ -1,0 +1,10 @@
+Christopher;Nolan;80;185;30:07:1970;1.5E7;400000.0;5;2432543255;christopher.nolan@director.com;Director;-
+Quentin;Tarantino;80;185;30:07:1970;1.2E7;500000.0;4;145324135;quentin.tarantino@director.com;Director;0 1 8
+Steven;Spielberg;80;185;30:07:1970;1.5E7;300000.0;4;145324135;steven.spielberg@director.com;Director;2 4
+Martin;Scorsese;80;185;30:07:1970;2.4E7;400000.0;4;145324135;martin.scorsese@director.com;Director;3 5 6 7
+Alfred;Hitchcock;80;185;30:07:1970;2.4E7;400000.0;4;145324135;alfred.hitchcock@director.com;Director;-
+Aaron;Sorkin;80;185;30:07:1970;3000000.0;400000.0;4;145324135;aaron.sorkin@scenarist.com;Scenarist;2 7 8
+Woody;Allen;80;185;30:07:1970;3000000.0;400000.0;4;145324135;woody.allen@scenarist.com;Scenarist;1 4 5 6
+Sergio;Leone;80;185;30:07:1970;3000000.0;400000.0;4;145324135;sergio.leone@scenarist.com;Scenarist;-
+Wes;Anderson;80;185;30:07:1970;3000000.0;400000.0;4;145324135;wes.anderson@scenarist.com;Scenarist;3 7
+Damien;Chazelle;80;185;30:07:1970;3000000.0;400000.0;4;145324135;damien.chazelle@scenarist.com;Scenarist;-

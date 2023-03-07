@@ -1,0 +1,11 @@
+Tom;Holland;70;169;01:06:1996;2000000.0;500000.0;3;1243243244;tom.holland@actor.com;0;false;1 3 4;super-hero;largest-collection-of-free-to-edit-tom-riddle-stickers-418518.png
+Johnny;Depp;70;178;09:06:1963;1.4E7;300000.0;4;4354354354;johnny.depp@actor.com;1;false;0 6 7;Drama;johnny-depp-pirates-of-the-caribbea-11563029953noxonk7vhv.png
+Tom;Hardy;70;169;01:06:1975;5000000.0;200000.0;5;1243243244;tom.hardy@actor.com;2;false;0 1 5 7;Action;439-4394637_tom-hardy-cigar-tom-hardy-long-haircut.png
+Gal;Gadot;70;169;01:06:1985;1.2E7;400000.0;4;1243243244;gal.gadot@actor.com;3;false;5;Science Fiction;199-1997595_at-the-movies-gal-gadot-selfie.png
+Bruce;Willis;70;169;01:06:1960;2000000.0;100000.0;5;1243243244;bruce.willis@actor.com;4;false;5;Action;png-transparent-bruce-willis-g-i-joe-retaliation-actor-desktop-film-producer-yearbook-celebrities-microphone-film.png
+Emilia;Clarke;65;169;01:06:1989;1.7E7;600000.0;4;1243243244;emilia.clarke@actor.com;5;false;8;Romantizm;Emilia-Clarke-PNG-Download-Image.png
+Salma;Hayek;70;169;01:06:1996;1.3E7;300000.0;2;1243243244;salma.hayek@actor.com;6;false;2 6 7;Action;salma_hayek_by_adnfnc_ddns7w5-fullview.png
+Keanue;Reeves;70;169;01:06:1996;2.2E7;400000.0;5;1243243244;keanue.reeves@actor.com;7;true;-;Action;363-3631558_keanu-reeves-png-png-download-hideo-kojima-and.png
+Amber;Heard;70;169;01:06:1996;1000000.0;500000.0;5;1243243244;amber.heard@actor.com;8;false;2 4 7;Action;-
+Ricky;Gervais;70;169;01:06:1996;1.4E7;500000.0;5;1243243244;ricky.gervais@actor.com;9;false;8;Comedie;126-1265428_ricky-gervais-laughing-out-loud-ricky-gervais-hd.png
+Toby;Maquire;70;169;01:06:1995;3.0E8;200000.0;5;55555555;tobymaquire@gmail.com;10;false;2 3 4;Action;Tobey_Maguire_2014.png

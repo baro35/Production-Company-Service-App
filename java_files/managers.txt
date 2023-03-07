@@ -1,0 +1,11 @@
+Antranig;Balian;75;179;27:06:1962;4000.0;3000.0;5;5235749834;antranig.balian@manager.com;3 7 9
+Kristen;Billings;68;169;27:05:1982;3000.0;2000.0;4;1234432124;kristen.billings@manager.com;1 16 18
+Jordan;Cerf;85;186;27:06:1972;6000.0;2000.0;4;5446823945;jordan.cerf@manager.com;0 2 12 20
+Sam;Hunt;90;186;27:06:1972;3000.0;3000.0;3;7568339534;sam.hunt@manager.com;14
+Christina;Kuo;56;163;27:06:1972;7000.0;5000.0;5;5678459812;christina.kuo@manager.com;13
+Chris;Noriega;95;196;27:06:1972;5000.0;4000.0;2;5436684586;chris.noriega@manager.com;21
+Brett;Pacis;95;196;27:06:1972;5000.0;4000.0;2;5436684586;brett.pacis@manager.com;6 15 19
+Rachel;Viola;95;196;27:06:1972;5000.0;4000.0;2;5436684586;rachel.viola@manager.com;-
+Brian;Speiser;95;196;27:06:1972;5000.0;4000.0;2;5436684586;brian.speiser@manager.com;5 11 17
+Adam;Goergia;95;196;27:06:1972;5000.0;4000.0;2;5436684586;adam.goergia@manager.com;22
+Will;Goergia;85;176;27:06:1982;5000.0;4000.0;2;5436684586;will.goergia@manager.com;4 8 10
